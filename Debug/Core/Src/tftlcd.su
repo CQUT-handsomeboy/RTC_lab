@@ -1,0 +1,15 @@
+../Core/Src/tftlcd.c:7:6:TFT_WriteCmd	16	static
+../Core/Src/tftlcd.c:12:6:TFT_WriteData	16	static
+../Core/Src/tftlcd.c:17:10:TFT_ReadData	4	static
+../Core/Src/tftlcd.c:22:10:TFT_ReadID	16	static
+../Core/Src/tftlcd.c:35:6:TFT_Init	8	static
+../Core/Src/tftlcd.c:157:6:TFT_WriteCmdData	16	static
+../Core/Src/tftlcd.c:163:6:TFT_WriteData_Color	16	static
+../Core/Src/tftlcd.c:168:6:TFT_Clear	24	static
+../Core/Src/tftlcd.c:182:6:TFT_Set_Window	24	static
+../Core/Src/tftlcd.c:199:6:TFT_DrawPoint	16	static
+../Core/Src/tftlcd.c:210:6:TFT_ShowChar	32	static
+../Core/Src/tftlcd.c:240:6:TFT_ShowLine	48	static
+../Core/Src/tftlcd.c:253:6:TFT_DrawRectangle	40	static
+../Core/Src/tftlcd.c:275:6:TFT_DrawAxis	16	static
+../Core/Src/tftlcd.c:280:6:TFT_DrawLine	64	static

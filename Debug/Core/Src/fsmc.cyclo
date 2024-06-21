@@ -1,0 +1,5 @@
+../Core/Src/fsmc.c:31:6:MX_FSMC_Init	2
+../Core/Src/fsmc.c:84:13:HAL_FSMC_MspInit	2
+../Core/Src/fsmc.c:164:6:HAL_SRAM_MspInit	1
+../Core/Src/fsmc.c:176:13:HAL_FSMC_MspDeInit	2
+../Core/Src/fsmc.c:227:6:HAL_SRAM_MspDeInit	1

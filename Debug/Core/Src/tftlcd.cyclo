@@ -1,0 +1,15 @@
+../Core/Src/tftlcd.c:7:6:TFT_WriteCmd	1
+../Core/Src/tftlcd.c:12:6:TFT_WriteData	1
+../Core/Src/tftlcd.c:17:10:TFT_ReadData	1
+../Core/Src/tftlcd.c:22:10:TFT_ReadID	1
+../Core/Src/tftlcd.c:35:6:TFT_Init	1
+../Core/Src/tftlcd.c:157:6:TFT_WriteCmdData	1
+../Core/Src/tftlcd.c:163:6:TFT_WriteData_Color	1
+../Core/Src/tftlcd.c:168:6:TFT_Clear	3
+../Core/Src/tftlcd.c:182:6:TFT_Set_Window	1
+../Core/Src/tftlcd.c:199:6:TFT_DrawPoint	1
+../Core/Src/tftlcd.c:210:6:TFT_ShowChar	11
+../Core/Src/tftlcd.c:240:6:TFT_ShowLine	5
+../Core/Src/tftlcd.c:253:6:TFT_DrawRectangle	5
+../Core/Src/tftlcd.c:275:6:TFT_DrawAxis	1
+../Core/Src/tftlcd.c:280:6:TFT_DrawLine	9
